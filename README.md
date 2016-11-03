@@ -8,7 +8,7 @@ This is the repo for group A3! W00t
 
 
 
-Shit i need to do(floor)
+Stuff i need to do(floor)
 -make path finder
 -make layout and put picute on wiki
 -store layout of shelves
