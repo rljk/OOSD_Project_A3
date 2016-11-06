@@ -3,7 +3,7 @@
 
 
 
-public class Robot{
+public class Robot implements Tickable{
 	
 	private int rHeightWidth;
 	
@@ -49,6 +49,12 @@ public class Robot{
 		
 		return charge;
 		
+	}
+
+	public void tick(int ticks){
+
+
+
 	}
 	
 	
